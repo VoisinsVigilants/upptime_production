@@ -15,7 +15,7 @@ sites:
   - name: Data - Voisins Vigilants Data (PROD)
     url: https://voisinsvigilants-data.org/
   - name: Territoire - Territoire Vigilant (PROD)
-    url: https://territoirevigilants.org
+    url: https://territoirevigilant.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
