@@ -95,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/territoirevigilant.org.ico",
     "slug": "territoire-territoire-vigilant-prod",
     "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 968,
     "timeDay": 968,
     "timeWeek": 968,
     "timeMonth": 968,
     "timeYear": 968,
-    "dailyMinutesDown": {
-      "2024-09-03": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
