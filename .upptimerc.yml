@@ -4,7 +4,7 @@ repo: upptime_production # The name of this repository
 
 sites:
   - name: Site Voisins Vigilants et Solidaires (PROD)
-    url: https://app.voisinsvigilants.org
+    url: https://app.voisinsvigilantsa.org
   - name: B2B - Voisins Vigilants Connect (PROD)
     url: https://voisinsvigilants-connect.org
   - name: Hodatis (Staging)
