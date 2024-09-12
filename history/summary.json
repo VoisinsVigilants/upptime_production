@@ -1,21 +1,24 @@
 [
   {
     "name": "Site Voisins Vigilants et Solidaires (PROD)",
-    "url": "https://app.voisinsvigilants.org",
-    "icon": "https://icons.duckduckgo.com/ip3/app.voisinsvigilants.org.ico",
+    "url": "https://app.voisinsvigilantsa.org",
+    "icon": "https://icons.duckduckgo.com/ip3/app.voisinsvigilantsa.org.ico",
     "slug": "site-voisins-vigilants-et-solidaires-prod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 380,
     "timeDay": 380,
     "timeWeek": 380,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 635,
+      "2024-09-11": 399
+    }
   },
   {
     "name": "B2B - Voisins Vigilants Connect (PROD)",
@@ -28,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 840,
-    "timeWeek": 938,
-    "timeMonth": 968,
-    "timeYear": 968,
+    "time": 958,
+    "timeDay": 819,
+    "timeWeek": 921,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 986,
-    "timeDay": 911,
-    "timeWeek": 925,
-    "timeMonth": 986,
-    "timeYear": 986,
+    "time": 965,
+    "timeDay": 778,
+    "timeWeek": 890,
+    "timeMonth": 965,
+    "timeYear": 965,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +68,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 3,
-    "timeWeek": 4,
+    "timeDay": 5,
+    "timeWeek": 5,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -82,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 3,
-    "timeWeek": 225,
-    "timeMonth": 239,
-    "timeYear": 239,
+    "time": 242,
+    "timeDay": 142,
+    "timeWeek": 232,
+    "timeMonth": 242,
+    "timeYear": 242,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 860,
-    "timeDay": 826,
-    "timeWeek": 870,
-    "timeMonth": 860,
-    "timeYear": 860,
+    "time": 853,
+    "timeDay": 784,
+    "timeWeek": 854,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   },
   {
@@ -118,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 924,
-    "timeWeek": 921,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "time": 938,
+    "timeDay": 884,
+    "timeWeek": 911,
+    "timeMonth": 938,
+    "timeYear": 938,
     "dailyMinutesDown": {}
   }
 ]
